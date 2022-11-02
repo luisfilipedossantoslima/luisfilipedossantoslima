@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![MasterHead](banner.png)](https://github.com/luisfilipedossantoslima)
+[![MasterHead](banner(1).png)](https://github.com/luisfilipedossantoslima)
 
 
 <h3 align="left">MY GITHUB STATS</h3>
