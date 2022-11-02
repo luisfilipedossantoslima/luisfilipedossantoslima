@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">MY TECHNOLOGY STACKS</h3>
----
 <h4 align="center">Languagues</h4>
-<p align="left">
+<p align="center">
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
@@ -73,7 +72,7 @@ Here are some ideas to get you started:
 ---
 
 <h4 align="center">Frameworks</h4>
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
   </a>
@@ -123,7 +122,7 @@ Here are some ideas to get you started:
 ---
 
 <h4 align="center">Databases</h4>
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver" width="40" height="40"/> 
   </a>
@@ -147,7 +146,7 @@ Here are some ideas to get you started:
 ---
 
 <h4 align="center">Servers</h4>
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazon" width="40" height="40"/> 
   </a>
@@ -165,7 +164,7 @@ Here are some ideas to get you started:
 ---
 
 <h4 align="center">Operational Systems</h4>
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> 
   </a>
@@ -185,7 +184,7 @@ Here are some ideas to get you started:
 
 ---
 <h4 align="center">Development Tools</h4>
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> 
   </a>
