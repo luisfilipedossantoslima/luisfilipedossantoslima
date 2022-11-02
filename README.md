@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/luisfilipedossantoslima/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfilipedossantoslima&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/luisfilipedossantoslima/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipedossantoslima&theme=radical&layout=compact" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
