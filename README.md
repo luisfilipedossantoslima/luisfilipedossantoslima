@@ -41,5 +41,44 @@ Here are some ideas to get you started:
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazon" width="40" height="40"/> 
   </a>
+  
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="angular" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="angular" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="angular" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="angular" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="angular" width="40" height="40"/> 
+  </a>
 </p>
-
