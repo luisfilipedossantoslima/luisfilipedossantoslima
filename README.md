@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </a>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luisfilipedossantoslima&theme=onedark)](https://github.com/luisfilipedossantoslima/github-profile-trophy&row=2&column=3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=luisfilipedossantoslima&theme=onedark&row=2&column=3)](https://github.com/luisfilipedossantoslima/github-profile-trophy)
 
