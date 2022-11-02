@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 <p align="left"> 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazon" width="40" height="40"/> 
+  </a>
 </p>
 
