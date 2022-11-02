@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/luisfilipedossantoslima">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipedossantoslima&theme=dark&layout=compact" />
 </a>
-
-<br/>(<-- two spaces)
-
+  
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=luisfilipedossantoslima&theme=onedark&row=2&column=3)](https://github.com/luisfilipedossantoslima/github-profile-trophy)
 
 <h3 align="left">MY TECHNOLOGY STACKS</h3>
