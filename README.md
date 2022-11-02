@@ -175,59 +175,59 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" alt="npm" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" alt="npm" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqllite/sqllite-original.svg" alt="sqllite" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" alt="ssh" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank">
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
