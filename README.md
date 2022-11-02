@@ -143,7 +143,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
@@ -151,7 +151,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="microsoftsqlserver" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver" width="40" height="40"/> 
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
@@ -167,7 +167,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/modejs/modejs-original.svg" alt="modejs" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
@@ -175,7 +175,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" alt="npm" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
@@ -195,7 +195,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqllite/sqllite-original.svg" alt="sqllite" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
@@ -207,7 +207,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   </a>
 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
