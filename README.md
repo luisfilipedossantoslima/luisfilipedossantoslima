@@ -81,4 +81,165 @@ Here are some ideas to get you started:
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
   </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="microsoftsqlserver" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/modejs/modejs-original.svg" alt="modejs" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" alt="nuget" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" alt="npm" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank">
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="" alt="docker" width="40" height="40"/> 
+  </a>
+
 </p>
