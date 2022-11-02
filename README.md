@@ -63,22 +63,22 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="angular" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="angular" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> 
   </a>
   
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="angular" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="cs" width="40" height="40"/> 
   </a>
   
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="angular" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
   </a>
   
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="angular" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
   </a>
 </p>
