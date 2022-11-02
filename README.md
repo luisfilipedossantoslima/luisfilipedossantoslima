@@ -230,16 +230,4 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
   </a>
 
-  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
-  </a>
-
-  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
-  </a>
-
-  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="" alt="docker" width="40" height="40"/> 
-  </a>
-
 </p>
