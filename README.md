@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisfilipedossantoslima&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipedossantoslima" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipedossantoslima&theme=radical" />
 </a>
 
 ![Anurag's GitHub stats]()
