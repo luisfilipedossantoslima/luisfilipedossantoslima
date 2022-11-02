@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">MY GITHUB STATS</h3>
 <a href="https://github.com/luisfilipedossantoslima">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luisfilipedossantoslima&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=luisfilipedossantoslima&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/luisfilipedossantoslima">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipedossantoslima&theme=radical&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipedossantoslima&theme=transparent&layout=compact" />
 </a>
 
 <br>
