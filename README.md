@@ -34,17 +34,47 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">MY TECHNOLOGY STACKS</h3>
+---
+<h4 align="center">Languagues</h4>
+<p align="left"> 
+</p>
+
+---
+
+<h4 align="center">Frameworks</h4>
 <p align="left"> 
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
   </a>
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazon" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> 
   </a>
+</p>
+
+---
+
+<h4 align="center">Databases</h4>
+<p align="left"> 
+</p>
+
+---
+
+<h4 align="center">Servers</h4>
+<p align="left"> 
+  <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazon" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+<h4 align="center">Operational Systems</h4>
+<p align="left"> 
+</p>
+<p align="left"> 
+
+  
+
   
   <a href="https://github.com/luisfilipedossantoslima" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> 
