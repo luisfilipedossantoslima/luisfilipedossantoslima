@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 [![MasterHead](banner(1).png)](https://github.com/luisfilipedossantoslima)
 
+---
 
 <h3 align="left">MY GITHUB STATS</h3>
 <a href="https://github.com/luisfilipedossantoslima">
@@ -25,10 +26,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfilipedossantoslima&theme=dark&layout=compact" />
 </a>
 
+---
+
 <a href="https://github.com/luisfilipedossantoslima">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=luisfilipedossantoslima&theme=onedark&row=2&column=3" />
 </a>
-  
+
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=luisfilipedossantoslima&theme=onedark&row=2&column=3)](https://github.com/luisfilipedossantoslima/github-profile-trophy)
 
