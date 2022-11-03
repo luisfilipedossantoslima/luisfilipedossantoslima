@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </div>
   <img src="https://komarev.com/ghpvc/?username=luisfilipedossantoslima&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
