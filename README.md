@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 <h3 align="center">MY GITHUB STATS</h3>
-<p aling="center">
+<p align="center">
   <a href="https://github.com/luisfilipedossantoslima">
     <img src="https://github-readme-stats.vercel.app/api?username=luisfilipedossantoslima&show_icons=true&theme=dark" />
   </a>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p aling="center">
+<p align="center">
   <a href="https://github.com/luisfilipedossantoslima">
     <img src="https://github-profile-trophy.vercel.app/?username=luisfilipedossantoslima&theme=onedark&row=2&column=3" />
   </a>
