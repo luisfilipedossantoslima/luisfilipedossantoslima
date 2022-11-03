@@ -30,7 +30,12 @@ Here are some ideas to get you started:
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luisfilipedossantoslima&theme=onedark&row=2&column=3)](https://github.com/luisfilipedossantoslima/github-profile-trophy)
+<p aling="center">
+  <a href="https://github.com/luisfilipedossantoslima">
+    <img src="https://github-profile-trophy.vercel.app/?username=luisfilipedossantoslima&theme=onedark&row=2&column=3" />
+  </a>
+</p>
+
 
 ---
 
