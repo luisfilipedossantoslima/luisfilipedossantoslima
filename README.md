@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 <h3 align="center">MY GITHUB STATS</h3>
-<p align="center">
+<p align="left">
   <a href="https://github.com/luisfilipedossantoslima">
     <img src="https://github-readme-stats.vercel.app/api?username=luisfilipedossantoslima&show_icons=true&theme=dark" />
   </a>
